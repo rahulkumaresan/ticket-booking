@@ -1,4 +1,5 @@
-In our project, we deal with booking seats in a cinema theatre. This project allows users to check the availability of seats in theatres of the prefered movie on a prefered date at a prefered time. This project allows the user to book everything in advance. This helps the management of movie theatres become much easier because only minimal manpower is necessary. In addition, this project also allows the user to pre-book food etc and use appropriate discounts to reduce the cost. This project also allows users to book live events happening around their location.
+                                                                            Online Theater Ticket Booking System
+An online ticket booking portal has become a "must-have" facility for holding any ticketed event and movie shows are no exception, in fact a ticketing portal for a movie theater is more important than it is for anything else. Therefore, we intend to design and develop an online ticket booking application that will not only save the theatre management a lot of laborious effort but also enable moviegoers to book tickets from anywhere, without having to wait in queues at the booking counter.     
 
 Tech stack used:
 1. React.js
